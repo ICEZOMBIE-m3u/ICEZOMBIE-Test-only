@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E East (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/a-and-e-us.png" group-title="Entertainment",A&E East (MOJ)
+https://143.244.60.30/ANE/index.m3u8
+#EXTINF:-1 tvg-id="ACC.Network.us2" tvg-name="ACC Network by ESPN (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/acc-network-us.png" group-title="Sports",ACC Network (MOJ)
+https://143.244.60.30/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/amc-us.png" group-title="Movies",AMC (MOJ)
+https://143.244.60.30/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2" tvg-name="American Heroes (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/american-heroes-channel-us.png" group-title="Documentary",American Heroes (MOJ)
+https://143.244.60.30/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/animal-planet-us.png" group-title="Documentary",Animal Planet (MOJ)
+https://143.244.60.30/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/antenna-us.png" group-title="Local - Other",Antenna TV (MOJ)
+https://143.244.60.30/Antenna_TV/index.m3u8
+#EXTINF:-1 tvg-id="ASPiRE.HD.us2" tvg-name="Aspire (MOJ)" tvg-logo="https://github.com/ICEZOMBIE-m3u/TV-Logos-tivimate/raw/refs/heads/main/countries/united-states/aspire-tv-us.png" group-title="Entertainment",Aspire (MOJ)
+https://143.244.60.30/Aspire/index.m3u8
